@@ -1,5 +1,8 @@
 # Horseshoe Loot Fork
-#### This is a simple fork of the original Horseshoe mod that changes the loot weights of the horsehoes. This was simply because I found way too many horshoes throughout my playthrough (especially in the ancient cities, which had a diamond horseshoe in every single chest). 
+### _This is a simple fork of the original Horseshoe mod that changes the loot weights of the horsehoes._
+
+ >This was simply because I found way too many horshoes throughout my playthrough (especially in the ancient cities, which had a diamond horseshoe in every single chest).
+
 
 A mod that adds equippable, enchantable horseshoes that speed up your mount! 
 
